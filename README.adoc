@@ -1,0 +1,11 @@
+= LAS
+
+LAS is a project set that I make to practice different aspects of web-development. I write these projects to practice different things (like DDD, Microservices, etc.) described https://xtiles.app/628b8f31597e954b44846c18[here].
+
+== Contribution
+
+Feel free to report an issue if you find any. If you think there is a mistake in the design of the services, architecture or anything else, do not hesitate to open an issue or discussion, since this project exists for study and practice.
+
+== Notes
+
+If you wander what LAS stands for - it's just an acronym from my name :)
