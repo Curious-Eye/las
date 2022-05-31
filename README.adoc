@@ -1,6 +1,6 @@
 = LAS
 
-LAS is a project set that I make to practice different aspects of web-development. I write these projects to practice different things (like DDD, Microservices, etc.) described https://xtiles.app/628b8f31597e954b44846c18[here].
+LAS is a project set that I make to practice different aspects of web-development (like DDD, Microservices, etc.) described https://xtiles.app/628b8f31597e954b44846c18[here].
 
 == Contribution
 
