@@ -1,3 +1,4 @@
 /.idea/
 /las-bank/.idea/
 /las-bank/core-svc/.gradle/
+/las-bank/core-svc/build/
